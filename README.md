@@ -25,17 +25,24 @@ To get more familiar, we are going to begin by doing some background reading.
 
   protests are a way to communicate to our leaders and help us select our politicans who will be in charge. They understand data is confusing and easy to lose so they created this blog to make this type of data more accessible and easy to use for all sorts of leaders and people.
 
-- Next, we would like you to read this [*New York Times* piece, which uses CountLove data](https://www.nytimes.com/interactive/2020/06/13/us/george-floyd-protests-cities-photos.html) (here's a [Google Doc version for anyone who gets paywalled](https://docs.google.com/document/d/1sdjFsA5csYuH4plNEEk7WXT77K5h5ZuyW05CBwYdk6A/edit?usp=sharing)), and which describes the Black Lives Matter protests that occurred in the summer of 2020. Please summarize the main point or argument of this article in 2-3 sentences (3 points)
+- Next, we would like you to read this [*New York Times* piece, which uses CountLove data](https://www.nytimes.com/interactive/2020/06/13/us/george-floyd-protests-cities-photos.html) (here's a [Google Doc version for anyone who gets paywalled](https://docs.google.com/document/d/1sdjFsA5csYuH4plNEEk7WXT77K5h5ZuyW05CBwYdk6A/edit?usp=sharing)), and which describes the Black Lives Matter protests that occurred in the summer of 2020. Please summarize the main point or argument of this article in 2-3 sentences (3 points) 
+      This NYT article talks about how the protests for the BLM has reached everywhere around the united states. It takes more internal accounts of what is happening around the country with protests from all races to have change in the justice and legal system, since the death of George Floyd.
 
 Next, we're going to reflect about who collected this data, and what's actually inside it.
 
 - Who collected and shared the CountLove data, and what do they do for a living? Please answer in 1-2 sentences(2 points)
-
+   Tommy Leung and Nathan Perkins made the data. They are engineers and scientists with interest in civic responsibility and public policy.
+  
 - As Klein and D'Ignazio remind us, when it comes to data, "what gets counted counts." What types of demonstrations does CountLove include in their data, and what types do they exclude? (3 points)
+  They count public displays of protest that are not part of “regular business.” awareness events, commemorative celebrations, historic reenactments, fundraising events, townhalls, or political campaign rallies are not counted.
 
 - How and where does CountLove get their data about the protests? Please answer in 2-3 sentences (2 points)
 
+they get their information through television and newspapers daily. But, theyh also have a program that they wrote to help sort this data out.
+
 - How does CountLove make their estimates about the number of people who attended a protest? What potential problems might arise from this method of estimation? Please answer in 3-4 sentences (4 points)
+
+they estimate by the articles that they link and estimate by the verbage of the article like "dozens" and all that. But if there is no count they leave it blank. It can be an issue because these are all guesses and what is accounted for. A lot of events, people will just show up and not be part of the counter, so the margin is very large.
 
 ## While You Code: Critical Analysis & Reflection
 
