@@ -23,6 +23,8 @@ To get more familiar, we are going to begin by doing some background reading.
 
 - First, please read [this FAQ](https://countlove.org/faq.html) from the CountLove website and the opening of [this blog post](https://www.tommyleung.com/countLove/index.htm). Based on the information in these pieces, why did the creators start collecting the CountLove data? Please answer in 2-3 sentences (3 points)
 
+  protests are a way to communicate to our leaders and help us select our politicans who will be in charge. They understand data is confusing and easy to lose so they created this blog to make this type of data more accessible and easy to use for all sorts of leaders and people.
+
 - Next, we would like you to read this [*New York Times* piece, which uses CountLove data](https://www.nytimes.com/interactive/2020/06/13/us/george-floyd-protests-cities-photos.html) (here's a [Google Doc version for anyone who gets paywalled](https://docs.google.com/document/d/1sdjFsA5csYuH4plNEEk7WXT77K5h5ZuyW05CBwYdk6A/edit?usp=sharing)), and which describes the Black Lives Matter protests that occurred in the summer of 2020. Please summarize the main point or argument of this article in 2-3 sentences (3 points)
 
 Next, we're going to reflect about who collected this data, and what's actually inside it.
